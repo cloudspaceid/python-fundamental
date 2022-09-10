@@ -1,4 +1,4 @@
 # python-fundamental
-Learn Python Fundamental RWID
+Learn Python Fundamental with RWID
 
 commit and push with ssh
