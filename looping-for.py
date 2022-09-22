@@ -1,5 +1,5 @@
 """
-Looping
+Looping dengan for
 """
 
 jumlah_buku = 12
