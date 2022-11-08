@@ -5,7 +5,7 @@ Semua sintaksis dasar bahasa peprograman terdiri dari:
 2. Percabangan: langkah melompat jika kondisi terenuhi
 3. Perulangan: mengulang langkah yang sama berkali-kali selama/sampai kondisi terpenuhi
 """
-#Skuensial
+#Skuensial / berurutan
 print("*** Skuensial ***")
 print("Start")
 print("Proses")
