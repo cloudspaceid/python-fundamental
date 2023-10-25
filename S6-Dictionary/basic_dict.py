@@ -18,11 +18,12 @@ print(users['address']['street'])
 
 print(type(users))
 
-print('\nUbah dict ke json')
+print('\nUbah dictionary ke json')
 import json
 result = json.dumps(users)
 print(result)
 print(type(result))
 
+#export json to file
 with open('../result.json', 'w') as file:
     json.dump(users, file)
